@@ -1,0 +1,14 @@
+C:\Users\azbek\Desktop\Аліна кросплатформенність\TriStateCheckBoxManager\TriStateCheckBoxManager\bin\Debug\net6.0-windows\TriStateCheckBoxManager.exe
+C:\Users\azbek\Desktop\Аліна кросплатформенність\TriStateCheckBoxManager\TriStateCheckBoxManager\bin\Debug\net6.0-windows\TriStateCheckBoxManager.deps.json
+C:\Users\azbek\Desktop\Аліна кросплатформенність\TriStateCheckBoxManager\TriStateCheckBoxManager\bin\Debug\net6.0-windows\TriStateCheckBoxManager.runtimeconfig.json
+C:\Users\azbek\Desktop\Аліна кросплатформенність\TriStateCheckBoxManager\TriStateCheckBoxManager\bin\Debug\net6.0-windows\TriStateCheckBoxManager.dll
+C:\Users\azbek\Desktop\Аліна кросплатформенність\TriStateCheckBoxManager\TriStateCheckBoxManager\bin\Debug\net6.0-windows\TriStateCheckBoxManager.pdb
+C:\Users\azbek\Desktop\Аліна кросплатформенність\TriStateCheckBoxManager\TriStateCheckBoxManager\obj\Debug\net6.0-windows\TriStateCheckBoxManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azbek\Desktop\Аліна кросплатформенність\TriStateCheckBoxManager\TriStateCheckBoxManager\obj\Debug\net6.0-windows\TriStateCheckBoxManager.AssemblyInfoInputs.cache
+C:\Users\azbek\Desktop\Аліна кросплатформенність\TriStateCheckBoxManager\TriStateCheckBoxManager\obj\Debug\net6.0-windows\TriStateCheckBoxManager.AssemblyInfo.cs
+C:\Users\azbek\Desktop\Аліна кросплатформенність\TriStateCheckBoxManager\TriStateCheckBoxManager\obj\Debug\net6.0-windows\TriStateCheckBoxManager.csproj.CoreCompileInputs.cache
+C:\Users\azbek\Desktop\Аліна кросплатформенність\TriStateCheckBoxManager\TriStateCheckBoxManager\obj\Debug\net6.0-windows\TriStateCheckBoxManager.dll
+C:\Users\azbek\Desktop\Аліна кросплатформенність\TriStateCheckBoxManager\TriStateCheckBoxManager\obj\Debug\net6.0-windows\refint\TriStateCheckBoxManager.dll
+C:\Users\azbek\Desktop\Аліна кросплатформенність\TriStateCheckBoxManager\TriStateCheckBoxManager\obj\Debug\net6.0-windows\TriStateCheckBoxManager.pdb
+C:\Users\azbek\Desktop\Аліна кросплатформенність\TriStateCheckBoxManager\TriStateCheckBoxManager\obj\Debug\net6.0-windows\TriStateCheckBoxManager.genruntimeconfig.cache
+C:\Users\azbek\Desktop\Аліна кросплатформенність\TriStateCheckBoxManager\TriStateCheckBoxManager\obj\Debug\net6.0-windows\ref\TriStateCheckBoxManager.dll
